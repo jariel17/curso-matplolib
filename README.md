@@ -16,17 +16,3 @@ python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 ```
-    
-## Lessons Learned
-
-What did you learn while building this project?
-- The difference between plot, subplot and subplots methods.
-- How to generate different types of graphs using Matplotlib
-
-
-
-## Acknowledgements
-
- - [Matplotlib and Seaborn course](https://platzi.com/cursos/matplotlib-seaborn/)
-
-
